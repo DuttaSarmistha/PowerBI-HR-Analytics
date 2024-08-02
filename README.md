@@ -1,22 +1,32 @@
 # PowerBI-HR-Analytics
-This repository contains a PowerBI project focused on HR analytics, utilizing SQL for data extraction and transformation. The project aims to provide insightful visualizations and reports to help HR departments make data-driven decisions.
 
-## Contents
+This repository contains SQL queries and Power BI dashboards for analyzing and visualizing HR data. The analysis is divided into four main sections: HR Summary, Employee Demographics and Distribution, Employee Tenure and Age Analysis, and Hiring and Termination Trends.
 
-- **PowerBI File (`.pbix`)**: The main PowerBI project file containing all the reports and visualizations.
-- **SQL Scripts**: SQL scripts used for data extraction and transformation.
-- **Documentation**: Detailed documentation on the project, including data sources, methodologies, and usage instructions.
+### HR Summary
+- Total Headcount
+- Headcount by Gender
+- Total New Hires in the Last Year
+- Total Terminations in the Last Year
+- Average Tenure
+- Average Age of Employees
 
-## Features
+### Employee Demographics and Distribution
+- Employee Count by Department
+- Average Age of Employees by Department
+- Gender Distribution within Each Department
+- Employee Distribution by Location
 
-- Employee demographics and diversity analysis
-- Employee performance and productivity metrics
-- Attrition and retention analysis
-- Compensation and benefits overview
+### Employee Tenure and Age Analysis
+- Employee Count by Age Group and Tenure
+- Distribution of Employees' Tenure
+- Average Tenure of Employees by Department and Location
 
-## Getting Started
+### Hiring and Termination Trends
+- Hiring Trends for the Last 10 Years
+- Company Employee Change Over the Years Based on Hire and Termination
 
-1. **Download and Install PowerBI**: Ensure you have PowerBI Desktop installed.
-2. **Clone the Repository**: Use the following command to clone the repository to your local machine:
-   ```sh
-   git clone https://github.com/your-username/PowerBI-HR-Analytics.git
+### Termination Analysis
+- Termination Rates by Gender
+- Termination Rates by Age
+- Termination Rates by Department
+- Year-wise Termination Rates
