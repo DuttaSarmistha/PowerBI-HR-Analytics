@@ -30,3 +30,6 @@ This repository contains SQL queries and Power BI dashboards for analyzing and v
 - Termination Rates by Age
 - Termination Rates by Department
 - Year-wise Termination Rates
+
+### NOTE
+- Data taken from Source: https://github.com/abhishek201294/HR-analytics-Dashboard/blob/main/Human%20Resources.csv
